@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=calculadora
+comment1.target=Matematico(Calculadora)
+comment2.params=num1\ num2\ num3
+comment2.target=Dupla\ decirResEcuacionDeSegundoGrado(double,\ double,\ double)
+comment3.params=punto1\ punto2
+comment3.target=Dupla2\ decirEcuacionDeRecta(Punto,\ Punto)
+comment4.params=hipotenusa\ cateto1
+comment4.target=double\ decirElCatetoFaltante(double,\ double)
+numComments=5
